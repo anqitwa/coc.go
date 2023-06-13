@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/amaanq/coc.go"
+	"github.com/anqitwa/coc.go"
 )
 
 func main() {
